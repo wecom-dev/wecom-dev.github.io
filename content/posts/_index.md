@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: 博客
 description: Keep up with the latest news.
 url: /blog/
 

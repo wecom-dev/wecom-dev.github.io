@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: 定价
 heading: Find the perfect plan for your business
 description: All plans include our award winning sales optimization solution to track your sales in real time.
 type: pricing
@@ -11,16 +11,16 @@ menu:
     weight: 1
 
 pricing_table:
-  - name: Basic
+  - name: 基础版
     color: "#8e8e8e"
     features:
-      - text: $25 per month
+      - text: 自建应用
         highlight: true
-      - text: Up to 5 users
+      - text: 无人数限制
         highlight: false
-      - text: Basic lead scoring
+      - text: 一年免费更新
         highlight: false
-      - text: CRM
+      - text: 标准接口
         highlight: false
       - text: Basic reporting
         highlight: false
@@ -29,7 +29,7 @@ pricing_table:
     call_to_action:
       link: http://mysite.com?plan=basic
       text: Get started
-  - name: Pro
+  - name: 源码版
     color: "#4a4a4a"
     features:
       - text: $99 per month
@@ -47,7 +47,7 @@ pricing_table:
     call_to_action:
       link: http://mysite.com?plan=pro
       text: Get started
-  - name: Professional
+  - name: saas版
     color: "#000000"
     features:
       - text: $299 per month

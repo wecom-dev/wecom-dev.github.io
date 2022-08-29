@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: 联系我们
 full_width: true
 heading: Get in touch today
 description: We'd love to help you improve your sales.

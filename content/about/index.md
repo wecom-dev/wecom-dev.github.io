@@ -1,5 +1,5 @@
 ---
-title: Our team
+title: 团队
 description: We've built an amazing team of developers, marketers, designers and sales people.
 type: about
 

@@ -1,6 +1,6 @@
-baseURL = "http://wecom.dev/"
+baseURL = "https://wecom.dev/"
 languageCode = "zh-cn"
-title = "Hydra Template"
+title = "wecom.dev"
 disqusShortname = ""
 googleAnalytics = ""
 Paginate = 10
@@ -27,9 +27,9 @@ weight = 110
   new_window = true
 
 [[menu.main]]
-identifier = "signup"
-name = "Sign Up"
-url = "/"
+identifier = "github"
+name = "Github"
+url = "https://github.com/go-laoji/wecom-go-sdk"
 weight = 111
 [menu.main.params]
   new_window = true

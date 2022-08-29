@@ -1,6 +1,6 @@
 ---
-title: "The last sales CRM you'll ever need"
-description: Track and optimize your sales team in real time.
+title: "企业微信通讯录同步助手"
+description: 企业微信通讯录同步工具，通讯录同步助手.
 type: bannerless
 
 _enabled_editors:
